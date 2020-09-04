@@ -20,7 +20,7 @@
     "@types/node": "^12.12.18",
     "@types/react": "^16.9.16",
     "@zeit/next-sass": "^1.0.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "typescript": "^3.7.3"
   }
 }
